@@ -1,5 +1,6 @@
-h4{
-    font-size:15px;
+body{
+    background-color: rgb(155, 75, 75);
+
 }
 p:hover {
     background-color:rgb(196, 196, 243);
@@ -30,12 +31,5 @@ h3{
 h4{
     font-style: inherit;
 }
-.hello{
-    font-size:20;
-    color:rgb(13, 79, 38);
-}
-.character{
-    font-size:16px;
-    color:rgb(242, 143, 14);
-}
+
 
