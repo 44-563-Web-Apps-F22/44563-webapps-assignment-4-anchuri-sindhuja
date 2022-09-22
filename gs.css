@@ -31,5 +31,7 @@ h3{
 h4{
     font-style: inherit;
 }
-
-
+.chorus{
+    font-size:20px;
+    color:rgb(32, 24, 4);
+    }
