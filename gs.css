@@ -35,3 +35,70 @@ h4{
     font-size:20px;
     color:rgb(32, 24, 4);
     }
+
+    table{
+        border-style: dotted;
+    }
+    th, td {
+        border: 1px solid black;
+      }
+    th {
+       color:purple;
+          }
+          td{
+            color:crimson;
+          }
+           tr:nth-child(even) {
+            background-color:blue;
+          }
+          td {
+            text-align: center;
+          }
+          
+         .chips{
+            font-size:20;
+            color:red;
+    
+         }
+         h2:hover{
+              color:blueviolet;
+         }
+    
+       h2{
+        
+            text-shadow: 2px 3px 5px red;
+       }
+       
+      th,td {
+        width:200px;
+        padding:0px 4px 4px 4px;
+        margin: -28px 0px -10px 100px;
+        background: lightblue;
+        border-top: 2px solid #000;
+        border-right: 4px dashed brown;
+        border-bottom: 8px double rgb(0, 255, 55);
+        border-left: 16px inset rgb(110, 78, 110);
+     }
+     ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color:rgb(16, 1, 29);
+      }   
